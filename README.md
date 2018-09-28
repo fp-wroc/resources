@@ -20,7 +20,7 @@ Below you will find some logo variations that were created, but we decided not t
 
 **#1**
 
-![logo1](proposals/fp-wroclaw-logo-1.png =150x150)
+![logo1](proposals/fp-wroclaw-logo-1.png | height = 100px)
 
 **#2**
 
