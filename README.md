@@ -15,48 +15,43 @@ This is the best we could made ourselves. If you (or any of your friends) have s
 
 Below you will find some logo variations that were created, but we decided not to use them.
 
-### Colorful logos
+<pre>
+	<img src="proposals/fp-wroclaw-logo-1.png" align="left" height="200">
+</pre>
 
+<pre>
+	<img src="proposals/fp-wroclaw-logo-2.png" align="left" height="200">
+</pre>
 
-**#1**
+<pre>
+	<img src="proposals/fp-wroclaw-logo-W-lambda.png" align="left" height="200">
+</pre>
 
-<img src="proposals/fp-wroclaw-logo-1.png" align="left" height="200">
+<pre>
+	<img src="proposals/fp-wroclaw-logo-W-lambda-2.png" align="left" height="200">
+</pre>
 
-**#2**
+<pre>
+	<img src="proposals/fp-wroclaw-logo-W-lambda-3.png" align="left" height="200">
+</pre>
 
-![logo2](proposals/fp-wroclaw-logo-2.png)
+<pre>
+	<img src="fp-wroclaw-logo-bw.png" align="left" height="200">
+</pre>
 
-**#3**
+<pre>
+	<img src="fp-wroclaw-logo-fx.png" align="left" height="200">
+</pre>
 
-![logo3](proposals/fp-wroclaw-logo-W-lambda.png)
+<pre>
+	<img src="fp-wroclaw-logo-lambda.png" align="left" height="200">
+</pre>
 
-**#4**
+<pre>
+	<img src="fp-wroclaw-logo-lambda-3.png" align="left" height="200">
+</pre>
 
-![logo4](proposals/fp-wroclaw-logo-W-lambda-2.png)
-
-**#5**
-
-![logo5](proposals/fp-wroclaw-logo-W-lambda-3.png)
-
-### Black & white logos
-
-**#1**
-
-![logo1](fp-wroclaw-logo-bw.png)
-
-**#2**
-
-![logo2](fp-wroclaw-logo-fx.png)
-
-**#3**
-
-![logo3](fp-wroclaw-logo-lambda.png)
-
-**#4**
-
-![logo4](fp-wroclaw-logo-lambda-3.png)
-
-**#5**
-
-![logo5](fp-wroclaw-logo-lambda-6.png)
+<pre>
+	<img src="fp-wroclaw-logo-lambda-6.png" align="left" height="200">
+</pre>
 
