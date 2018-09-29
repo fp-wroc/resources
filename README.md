@@ -5,7 +5,7 @@ https://wiki.haskell.org/Haskell_logos
 https://wiki.haskell.org/TW-Logo-Haskell
 
 **The logo we currently use:**
-![logo6](fp-wroclaw-logo-lambda-2.png)
+![logo6](fp-wroclaw-logo.png)
 
 This is the best we could made ourselves. If you (or any of your friends) have some graphics skills - we would be grateful for help!
 
@@ -36,22 +36,22 @@ Below you will find some logo variations that were created, but we decided not t
 </pre>
 
 <pre>
-	<img src="fp-wroclaw-logo-bw.png" align="left" height="200">
+	<img src="proposals/fp-wroclaw-logo-bw.png" align="left" height="200">
 </pre>
 
 <pre>
-	<img src="fp-wroclaw-logo-fx.png" align="left" height="200">
+	<img src="proposals/fp-wroclaw-logo-fx.png" align="left" height="200">
 </pre>
 
 <pre>
-	<img src="fp-wroclaw-logo-lambda.png" align="left" height="200">
+	<img src="proposals/fp-wroclaw-logo-lambda.png" align="left" height="200">
 </pre>
 
 <pre>
-	<img src="fp-wroclaw-logo-lambda-3.png" align="left" height="200">
+	<img src="proposals/fp-wroclaw-logo-lambda-3.png" align="left" height="200">
 </pre>
 
 <pre>
-	<img src="fp-wroclaw-logo-lambda-6.png" align="left" height="200">
+	<img src="proposals/fp-wroclaw-logo-lambda-6.png" align="left" height="200">
 </pre>
 
