@@ -14,3 +14,7 @@ This is the best we could made ourselves. If you (or any of your friends) have s
 
 ![fp-cloud](fp-cloud.png)
 
+
+**Cloud of functional languages for Twitter:**
+
+![fp-cloud-twitter](fp-cloud-twitter.png)
